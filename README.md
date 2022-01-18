@@ -1,2 +1,3 @@
-# HeLlOwOrLd
-A try at hello world without turning in
+print("Hello World")
+
+print("My name is Mitch Wood")
